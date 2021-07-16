@@ -1,0 +1,10 @@
+{
+    "elements": {},
+    "attributes": {
+        "th:text": {
+            "context": "h5"
+        },
+        "th:src": {},
+        "th:each": {}
+    }
+}
